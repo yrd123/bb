@@ -26,7 +26,7 @@ SECRET_KEY = '@z--bqt!e2q6^y7&rmi*flj9k)&uugro)mr68e%#*hdss1-&j$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['bloomb.herokuapp.com']
+ALLOWED_HOSTS = ['bloomb.herokuapp.com','127.0.0.1','*']
 
 
 # Application definition
